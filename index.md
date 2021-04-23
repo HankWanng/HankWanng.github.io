@@ -1,37 +1,130 @@
-## Welcome to GitHub Pages
+# 1.常用命令
 
-You can use the [editor on GitHub](https://github.com/HankWanng/HankWanng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## 1.1.标题
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 二级标题（##）快捷键Ctrl+2
 
-```markdown
-Syntax highlighted code block
+## 1.2.段落
 
-# Header 1
-## Header 2
-### Header 3
+### 无特别用法直接输入即为段落（换行为末尾加2个空格）
 
-- Bulleted
-- List
+快捷键ctrl + 0
 
-1. Numbered
-2. List
+ex：输入了一段段落  
 
-**Bold** and _Italic_ and `Code` text
+我换行了
 
-[Link](url) and ![Image](src)
-```
+## 1.3.字体
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**加粗字体** 快捷键ctrl + b
 
-### Jekyll Themes
+### *斜体* 快捷键ctrl +i
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HankWanng/HankWanng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### ~~删除线~~
 
-### Support or Contact
+### <u>下划线</u> ctrl +u
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+***
+
+---
+
+## 1.4列表
+
+- 有序列表
+- 无序列表
+
+1. 有序列表
+
+#### 列表嵌套
+
+1. 有序
+   - 无序  前面加TAB  即***四个空格***
+
+
+
+## 1.5区块引用
+
+> ### 区块应用有什么用呢？
+>
+> #### >> 怎么回答
+
+
+
+## 1.6Markdown代码
+
+​	print('hello world')
+
+`print('hello world')`
+
+## 1.7连接
+
+这是一个测试[百度](www.baidu.com)
+
+### 高级连接
+
+通过一个变量设置连接
+
+[baidu][1]
+
+[1]:www.baidu.com
+
+## 1.8图片
+
+ctrl + shift + i
+
+[我的第一个图片][2]
+
+[2]:‪D:\GIT\HTML\PIMS Meeting-4M\Page3.1.png
+
+![我的图片](D:\GIT\HTML\PIMS Meeting-4M\Page3.png)
+
+<img src="D:\GIT\HTML\PIMS Meeting-4M\Page3.1.png" style="zoom: 67%;" />
+
+## 1.9 表格
+
+| 项次 | 数量 |
+| :--: | :--: |
+|  1   | 150  |
+
+ctrl + t
+
+
+
+# 2.高级技巧
+
+## 2.1支持HTML元素
+
+目前支持的 HTML 元素有：`<kbd> <b> <i> <em> <sup> <sub> <br>`等 ，如：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
