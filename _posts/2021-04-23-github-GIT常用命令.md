@@ -26,6 +26,10 @@ git reflog
 
 git reset --hard 版本号
 
+远端回滚
+
+git push -f
+
 ## git本地覆盖远程方法
 
 git push origin master --force 
