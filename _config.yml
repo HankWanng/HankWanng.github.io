@@ -128,17 +128,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username: Hank
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: Hank
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 3794db4e5892aa72a1cc
+        client_secret: 31473c9926e3c2e4a3a3312f9f9bd0b832596290
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: Hank
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
